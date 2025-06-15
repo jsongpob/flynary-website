@@ -23,8 +23,11 @@ export default function Home() {
           <li className="mb-2 tracking-[-.01em]">
             Save and see your changes instantly.
           </li>
-          <li className="tracking-[-.01em]">
+          <li className="mb-2 tracking-[-.01em]">
             hello flynary
+          </li>
+          <li className="tracking-[-.01em]">
+            welcome to the world of nextjs
           </li>
         </ol>
 
